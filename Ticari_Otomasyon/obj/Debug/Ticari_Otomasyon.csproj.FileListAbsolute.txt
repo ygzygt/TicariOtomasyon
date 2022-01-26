@@ -1,0 +1,10 @@
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe.config
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.exe
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\bin\Debug\Ticari_Otomasyon.pdb
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.Properties.Resources.resources
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.GenerateResource.cache
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.exe
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.pdb
+C:\Users\twitc\source\repos\Ticari_Otomasyon\Ticari_Otomasyon\obj\Debug\Ticari_Otomasyon.Form1.resources
